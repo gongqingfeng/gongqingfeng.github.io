@@ -1,10 +1,10 @@
-url: http://csinva.github.io
+url: http://gongqingfeng.github.io
 baseurl: ""
 
 # Site Settings
-title: Chandan Singh
-description: "Chandan Singh Homepage"
-keywords: "Chandan, Singh, Computer Science"
+title: Gong Qingfeng
+description: "Gong Qingfeng Homepage"
+keywords: "Gong, Qingfeng, Computer Science, Electrical Engineering"
 collections:
  notes:
     name: Notes

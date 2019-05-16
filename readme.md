@@ -1,6 +1,6 @@
 # source for gongqingfeng's personal website (https://gongqingfeng.github.io)
 
-**contains notes, slides, blog posts, and personal information**
+**contains notes, blog posts, and personal information**
 
 # reference
 
