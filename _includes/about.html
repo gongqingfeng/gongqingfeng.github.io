@@ -5,18 +5,17 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h1 class="brand-heading">&nbsp;</h1>
-                    <img src="{{ site.url }}/assets/img/propic.jpg" style="border-radius: 50%" width="40%">
+                    <img src="{{ site.url }}/assets/img/me.jpeg" style="border-radius: 50%" width="40%">
 <!--                    <img src="{{ site.url }}/img/propic.png" width="40%">-->
                     <p class="intro-text">{{ content }}</p>
                     {% capture title %}{% for page in site.pages | sort: "title" %}{% if forloop.first %}{{ page.title
                     }}{% endif %}{% endfor %}{% endcapture %}
                     <ul class="list-inline social-buttons">
-                        <li><a href="https://scholar.google.com/citations?user=XpttKK8AAAAJ&hl=en&oi=sra"><i class="fa fa-graduation-cap fa-fw"></i></a></li>
-                        <li><a href="mailto:chandan_singh@berkeley.edu"><i class="fa fa-envelope fa-fw"></i></a></li>
-                        <li><a href="{{ site.url }}/assets/cv_full.pdf">cv</a></li>
-                        <li><a href="https://github.com/csinva"><i class="fa fa-github fa-fw"></i></a></li>
-                        <li><a href="https://www.linkedin.com/in/chandan-singh-433a20108/"><i class="fa fa-linkedin fa-fw"></i></a></li>
-                        <li><a href="https://twitter.com/chandan_singh96"><i class="fa fa-twitter fa-fw"></i></a></li>
+                        <li><a href="mailto:gongqingfeng1996@gmail.com"><i class="fa fa-envelope fa-fw"></i></a></li>
+                        <li><a href="https://github.com/gongqingfeng" target="_blank"><i class="fa fa-github fa-fw"></i></a></li>
+                        <li><a href="https://weibo.com/u/5707562322" target="_blank"><i class="fa fa-weibo fa-fw"></i></a></li>
+                        <li><a href="http://wpa.qq.com/msgrd?v=3&uin=894237294&site=qq&menu=yes" target="_blank"><i class="fa fa-qq fa-fw"></i></a></li>
+                        <li><a href="https://twitter.com/gongqingfeng21" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
                     </ul>
                     <a href="#{{ title }}" class="btn btn-circle page-scroll">
                         <i class="fa fa-angle-double-down animated"></i>
