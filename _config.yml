@@ -8,7 +8,7 @@ keywords: "Gong, Qingfeng, Computer Science, Electrical Engineering"
 collections:
  notes:
     name: Notes
-    documentation: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+    documentation: https://github.com/gongqingfeng
     output: true
 markdown: kramdown
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
