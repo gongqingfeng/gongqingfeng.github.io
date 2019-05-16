@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2017年8月
+subtitle: <a href="http://bysj.cqu.edu.cn/bysj/index.jsp" target="_blank"> 全国大学生电子设计竞赛 </a>
+image: "assets/img/control.jpg"
+---
+2017年8月，参加全国大学生电子设计竞赛，组别为控制组。

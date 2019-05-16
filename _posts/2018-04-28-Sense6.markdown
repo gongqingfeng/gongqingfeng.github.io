@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2018年4月28号
+subtitle: <a href="http://www.coda2017.com" target="_blank"> 重庆市开放数据创新应用大赛</a>
+image: "assets/img/sense6.jpg"
+---
+2017年底至2018年4月，参加重庆市开放数据创新应用大赛，作品名称为《新数据环境下政府角色下智慧城市的管理决策支持平台》，本人负责python程序编写、数据可视化等工作。

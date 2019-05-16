@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2019年1月至2019年6月
+subtitle: <a href="http://bysj.cqu.edu.cn/bysj/index.jsp" target="_blank"> 重庆大学本科毕业设计 </a>
+image: "assets/img/design.jpg"
+---
+2019年1月至2019年6月，本科大四下学期完成毕业设计，课题名称为《基于FPGA的高精度数据采集转换系统设计》。

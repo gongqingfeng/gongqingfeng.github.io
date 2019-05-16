@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2016年6月至2017年6月
+subtitle: <a href="https://baike.baidu.com/item/本科生科研训练计划(SRTP)/15186131" target="_blank"> 本科生科研训练计划(SRTP) </a>
+image: "assets/img/SRTP.jpg"
+---
+2016年6月至2017年6月，参加本科生科研训练计划(SRTP)，课题名称为《一种人工味觉系统的设计与实现》，本人负责stm32的C语言软件驱动程序编写、数据采集app制作、主控电路板绘制及焊接调试等工作。
